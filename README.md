@@ -73,6 +73,19 @@ Double‑click:
 
 `Start Cursor Flow.command`
 
+If macOS blocks it (Gatekeeper), run one of these:
+
+```bash
+chmod +x "Start Cursor Flow.command"
+./"Start Cursor Flow.command"
+```
+
+or:
+
+```bash
+bash "Start Cursor Flow.command"
+```
+
 What it does:
 
 - Starts the backend on `http://localhost:8000`
