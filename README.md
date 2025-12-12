@@ -9,12 +9,6 @@ Desktop (Electron) screen recorder + timeline editor.
 - Add simple edits on a timeline (cuts, zoom events, title cards).
 - Export a clean MP4 for sharing.
 
-## Non-goals
-
-- Not a full NLE (no multi-track audio edit, no color grading).
-- Not a live streaming tool.
-- Not a browser app; development and usage are desktop-first (Electron).
-
 <img width="1390" height="945" alt="Screenshot 2025-12-12 at 16 33 46" src="https://github.com/user-attachments/assets/cb52c819-633d-4cf2-a6c7-e9f5de8ea594" />
 
 
