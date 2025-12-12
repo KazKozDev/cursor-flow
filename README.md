@@ -34,6 +34,13 @@ Closest tools, depending on what you need:
 
 ## Setup
 
+### 0) Clone
+
+```bash
+git clone https://github.com/KazKozDev/cursor-flow.git
+cd cursor-flow
+```
+
 ### 1) Install Node deps
 
 ```bash
