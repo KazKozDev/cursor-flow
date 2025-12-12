@@ -127,17 +127,6 @@ Top-right icons:
 
 Note: recorded clips saved as `blob:` URLs are not persisted in the project file.
 
-## Build (macOS)
-
-```bash
-npm run make
-```
-
-Artifacts:
-
-- `out/make/**.dmg` (installer)
-- `out/make/**.zip`
-
 ## Repo layout
 
 ```
