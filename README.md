@@ -1,6 +1,14 @@
 # Cursor Flow
 
-Desktop (Electron) screen recorder + timeline editor.
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg)]()
+[![Electron](https://img.shields.io/badge/Electron-39-47848F.svg?logo=electron&logoColor=white)]()
+[![Node](https://img.shields.io/badge/Node.js-18%2B-339933.svg?logo=node.js&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg?logo=python&logoColor=white)]()
+
+A free, Screen Studio–style Electron desktop app for recording and polishing app demos and presentations, with smart zoom, cursor enhancement, and clean MP4 exports.
+
+> **Note:** Currently macOS only. Windows/Linux support is not yet available.
 
 ## What it is for
 
@@ -137,3 +145,7 @@ services/                 API clients / integrations
 App.tsx                   Main UI and timeline logic
 Start Cursor Flow.command macOS launcher
 ```
+
+## License
+
+[Apache 2.0](LICENSE)
